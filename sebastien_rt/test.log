@@ -1,0 +1,29 @@
+.camera:
+{
+	/pos: 0;0;0
+	/dir: 0;0;1
+}
+
+.light:
+{
+	/color: 125;125;0
+	/angle: 45
+	/dir: -1;0;0
+	/pos: 0;0;0
+}
+
+.light:
+{
+	/color: 125;65;165
+	/angle: 45
+	/dir: -1;0;0
+	/pos: 0;0;0
+}
+
+.cylinder:
+{
+	/color: 125;125;125
+	/dir: 0;1;0
+	/pos: 0;0;20
+	/r: 5
+}
